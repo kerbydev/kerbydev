@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm kerbydev </h1>
 
+Currently Working on my design and development skills.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HyperX)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KerbyLabor)
@@ -25,5 +27,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kerbydev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
