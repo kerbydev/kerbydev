@@ -1,17 +1,14 @@
-**(Graphic artist/ Vibe Coder)**
-# Me:
-💻AI enthusiast
+<h1>Hi 👋, I'm <kerbydev/> </h1>
 
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+![Discord]
 (https://discord.gg/HyperX) 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
+![Facebook]
 (https://facebook.com/Kerby Labor) 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
-(https://instagram.com/kerby_the_curator) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+![Instagram]
+![LinkedIn]
 (https://linkedin.com/in/Kerby Labor) 
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+![email]
 (mailto:kerby.labor5@gmail.com) 
 
 # 💻 Tech Stack:
