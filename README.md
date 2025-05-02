@@ -1,4 +1,4 @@
-**'[Graphic artist/ Vibe Coder]'**
+**'(Graphic artist/ Vibe Coder)'**
 
 # Me:
 💻AI enthusiast
