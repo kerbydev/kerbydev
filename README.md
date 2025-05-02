@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm <kerbydev/> </h1>
+<h1>Hi 👋, I'm kerbydev </h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HyperX)
