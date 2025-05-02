@@ -1,6 +1,7 @@
-<h1>Hi 👋, I'm kerbydev </h1>
+<h1>Hello 👋, I'm kerbyLabor </h1>
 
-Currently Working on my design and development skills.
+💻Currently Working on my design and development skills. <br>
+🎓Currently Studying at Mindanao State University Iligan Institute of Technology
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HyperX)
@@ -21,17 +22,16 @@ Currently Working on my design and development skills.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph.svg">
-</picture>
-  
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kerbydev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerbydev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kerbydev/kerbydev/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kerbydev&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
