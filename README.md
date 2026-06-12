@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm kerby Labor </h1>
+<h1>Hello, I'm kerby Labor </h1>
 
 💻Currently Working on my design and development skills. <br>
 🎓Currently Studying at Mindanao State University Iligan Institute of Technology
